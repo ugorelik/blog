@@ -1,0 +1,1 @@
+This is a whitepaper that I co-authored with Andrew Thompson, it looks into the Reaver WPS attack. Read [Reaver WPS Threat Analysis](https://docs.google.com/document/pub?id=1YFCRj0F8NaykyyH-EVpa_IIdcbnnB63Mdj2i5R7uB7c) on Google Docs.
