@@ -1,10 +1,10 @@
-``` shell
+``` bash
 git diff --name-only | uniq | xargs subl
 ```
 
 I found it useful to create an alias too:
 
-``` shell
+``` bash
 git config --global alias.cf '!sh -c "git diff --name-only | uniq | xargs subl"'
 ```
 
