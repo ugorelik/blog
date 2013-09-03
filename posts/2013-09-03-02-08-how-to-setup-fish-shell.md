@@ -1,4 +1,3 @@
-
 I've [always been a big fan of pimping out my console][old-guide]. Every time I see one of my coworkers' monochromatic green shell, I die a little inside.
 
 For a while I was a big fan of [Noah Frederick's peppermint theme][old-theme] and I loved it, but then I discovered [Fish shell][fish]. *Fish shell is sweet, and it does a lot of nice things for you like colors, a fancy prompt, and nifty predictions*.
@@ -11,25 +10,25 @@ Fish shell can be a little daunting to install. I opted to install it from the s
 
 To use fish, simple use the `fish` command.
 
-```
+``` bash
 > fish
 ```
 
 Once you're down with fish, make it your default shell: 
 
-```
+``` bash
 chsh -s /usr/local/bin/fish
 ```
 
 Or revert back to bash:
 
-```
+``` bash
 chsh -s /bin/bash
 ```
 
 There's a little gotcha, in order for the `chsh` command to work you have to have fish in your `/etc/shells`. You can read the [full details][stack-fish] cutesy of Nicholas Riley via StackOverflow. This is what mine looks like (note the addition of `/usr/local/bin/fish`):
 
-```
+``` bash
 /bin/bash
 /bin/csh
 /bin/ksh
