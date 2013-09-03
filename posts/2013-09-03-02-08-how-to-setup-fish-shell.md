@@ -2,7 +2,7 @@ I've [always been a big fan of pimping out my console][old-guide]. Every time I 
 
 For a while I was a big fan of [Noah Frederick's peppermint theme][old-theme] and I loved it, but then I discovered [Fish shell][fish]. *Fish shell is sweet, and it does a lot of nice things for you like colors, a fancy prompt, and nifty predictions*.
 
-I've been using `fish` for about two weeks now and I don't see myself going back to `bash` anytime soon.
+I've been using `fish` for a while now and I don't see myself going back to `bash` anytime soon.
 
 ### Installation
 
