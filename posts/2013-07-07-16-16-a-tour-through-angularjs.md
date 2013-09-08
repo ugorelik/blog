@@ -1,1 +1,1 @@
-<iframe src="http://slid.es/urigorelik/angular/embed" width="900" height="720" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://slid.es/urigorelik/angular/embed" width="650" height="650" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
