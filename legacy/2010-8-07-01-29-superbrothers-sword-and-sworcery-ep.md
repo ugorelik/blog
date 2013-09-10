@@ -20,15 +20,15 @@ All in all this game looks pretty rad. Unfortunately I think that it's only comi
 
 
 
-### Full Demo Video
+#### Full Demo Video
 
-###  
-
-
+####  
 
 
 
-#### Superbrothers Video
+
+
+##### Superbrothers Video
 
 
 

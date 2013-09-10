@@ -16,7 +16,7 @@ Now Skyrim is rocking a completely new engine (same engine as Rage) and it looks
 
 
 
-### Shouts Mechanic
+#### Shouts Mechanic
 
 
 
@@ -24,7 +24,7 @@ Skyrim is going to have this nifty mechanic that lets you acquire powerful/game 
 
 
 
-### Other features
+#### Other features
 
 
 
@@ -44,7 +44,7 @@ And finally, the game is set to be released on...
 
 
 
-## November 11th, 2011
+### November 11th, 2011
 
 
 

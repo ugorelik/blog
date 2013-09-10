@@ -20,7 +20,7 @@ Check out Serge's [article][3] for the announcement trailer.
 
 
 
-### Press Release
+#### Press Release
 
 
 
@@ -28,7 +28,7 @@ Check out Serge's [article][3] for the announcement trailer.
 
   
 
-#### New Controller
+##### New Controller
 
 
 
@@ -36,7 +36,7 @@ The new controller incorporates a 6.2-inch, 16:9 touch screen and traditional bu
 
 
 
-#### Other Controls
+##### Other Controls
 
 
 
@@ -44,7 +44,7 @@ Up to four Wii Remote (or Wii Remote Plus) controllers can be connected at once.
 
 
 
-### Key Facts
+#### Key Facts
 
 
 
@@ -64,7 +64,7 @@ Up to four Wii Remote (or Wii Remote Plus) controllers can be connected at once.
 
 
 
-### Technical Specs
+#### Technical Specs
 
 
 
@@ -76,7 +76,7 @@ Other: Four USB 2.0 connector slots are included. The new console is backward co
 
 
 
-### Announced Games
+#### Announced Games
 
 
 

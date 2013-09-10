@@ -4,7 +4,7 @@ For a while I was a big fan of [Noah Frederick's peppermint theme][old-theme] an
 
 I've been using `fish` for a while now and I don't see myself going back to `bash` anytime soon.
 
-### Installation
+#### Installation
 
 Fish shell can be a little daunting to install. I opted to install it from the source -- if you're comfortable with the terminal then do it this way. There's also a [package installer][fish-package] that you can use. 
 
