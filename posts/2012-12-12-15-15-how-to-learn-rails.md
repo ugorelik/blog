@@ -1,3 +1,5 @@
+***Updated: September 12, 2013***
+
 A couple of people have been asking my where to start with Rails. I usually say it's easy! Just learn ruby then learn rails.
 
 Well it's time to put my money where my mouth is. Here is a guide with some helpful resources on how to learn rails.
@@ -6,19 +8,17 @@ Well it's time to put my money where my mouth is. Here is a guide with some help
 
 #### Step 0: Tools
 
-##### [Sublime Text 2](http://www.sublimetext.com/2)
+##### [Sublime Text](http://www.sublimetext.com/3)
 
-I love Sublime Text 2 so much. It's the best. If you want to use a text editor (not an IDE) this is the one I highly recommend. I also bought [Chocolat](http://chocolatapp.com/) which I loved as a replacement for Textmate; however I would still recommend Sublime over it.
+I love Sublime Text so much. It's pretty much an IDE once you customize it with plugins. If you really need an IDE you can try something like [RubyMine](http://www.jetbrains.com/ruby/). I've only used it a little and can't really speak it its usefulness.
 
-If you're the IDE type then [download eclipse](http://www.eclipse.org/downloads/packages/eclipse-classic-42/junor) and get the [Aptana](http://www.aptana.com/) plugin (comes in stand alone too). 
-
-I've personally never used this and I'd recommend using a text editor.
+Neither of these tools are free but you can use Sublime Text indefinitely if you're okay with a pop-up every now and again.
 
 ##### Install Ruby
 
-If you're on a Mac then you already have ruby 1.8.x! Hooraay! If you're on any other platform visit ruby's [webpage](http://www.ruby-lang.org/en/).
+If you're on a Mac then you already have ruby 1.8.x, so you can use that before installing anything. If you're on any other platform visit ruby's [webpage](http://www.ruby-lang.org/en/). As of today, the two choices of ruby that you'll have will probably be 1.9.3 and 2.0.0. Go with 2.0.0.
 
-I **highly** recommend that you use [rvm](https://rvm.io/rvm/install/) or [rbenv](https://github.com/sstephenson/rbenv) if you know what you're doing. Installing either one of those can be daunting task and is not necessary. You can install these later as well, just do it at some point.
+I **highly** recommend that you use [rvm](https://rvm.io/rvm/install/) or [rbenv](https://github.com/sstephenson/rbenv) once you know what you're doing but, installing either one of these can be daunting task so it's okay to skip this step while you're testing the waters. Do not forget to do this at some point; I personally prefer [rbenv](https://github.com/sstephenson/rbenv).
 
 #### Step 1: Ruby
 
@@ -47,7 +47,3 @@ This is a quick 'course' by the same people that made Try Ruby. It's a bit trick
 This is a great book and this is how I first go into rails. Also, the entire book is available for free!
 
 Once you've read the book, you're good to go! You can now do Rails.
-
-#### Step 3: Improving
-
-Coming later.
