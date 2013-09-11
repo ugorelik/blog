@@ -6,7 +6,7 @@ Well it's time to put my money where my mouth is. Here is a guide with some help
 
 <!-- more -->
 
-#### Step 0: Tools
+#### Step 0: Tools & Setup
 
 ##### [Sublime Text](http://www.sublimetext.com/3)
 
