@@ -1,12 +1,12 @@
 How to delete merged branches in git
 
 ``` bash
-git br --merged | grep -v \* | grep -v master | xargs git br -d
+git branch --merged | grep -v \* | grep -v master | xargs git branch -d
 ```
 
 You can also create a git alias:
 
 ``` bash
 git config --global alias.dm \
-'!sh -c "git br --merged | grep -v \* | grep -v master | xargs git br -d"'
+'!sh -c "git branch --merged | grep -v \* | grep -v master | xargs git branch -d"'
 ```
