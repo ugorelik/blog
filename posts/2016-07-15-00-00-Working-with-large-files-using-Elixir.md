@@ -26,4 +26,4 @@ elixir trim_large.exs input_file.sql output_file.sql
 
 Next we grab a stream from a file using `File.stream!/3` and we use `Stream.reject/2` to remove entire lines that we don't want. We then remove any leading or trailing whitespace with `Stream.map/2` and `String.trim/2`.
 
-We use `Stream.into/2` to convert our working stream into an output file. And finally we usa `Stream.run` to "execute" the stream. This is similar to calling `Enum.to_list` to return the enum but since it's a file we use a slightly different mechanism.
+We use `Stream.into/2` to convert our working stream into an output file. And finally we use `Stream.run` to "execute" the stream. This is similar to calling `Enum.to_list` to return the enum but since it's a file we use a slightly different mechanism.
